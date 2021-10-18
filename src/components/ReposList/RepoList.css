@@ -1,0 +1,16 @@
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: -20px;
+}
+
+.repo-list-left {
+  background-color: wheat;
+  width: 50%;
+}
+
+.repo-details-right {
+  background-color: yellow;
+  width: 50%;
+}

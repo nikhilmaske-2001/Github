@@ -1,0 +1,13 @@
+.container {
+  top: 0;
+}
+
+.header {
+  background-color: black;
+  margin-top: -20px;
+}
+
+.header-text {
+  color: white;
+  text-align: center;
+}
